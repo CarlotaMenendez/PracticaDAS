@@ -51,7 +51,7 @@ Chosen option: "[ADD-1. Arquitectura de microservicios]", because [es un método
 
 ## Links
 
-* [ADD-2] (https://github.com/CarlotaMenendez/PracticaDAS/blob/main/docs/adr/ADD-2-Cliente-servidor.md) [ADD-2-Cliente-Servidor.md]
+* [[ADD-2] (https://github.com/CarlotaMenendez/PracticaDAS/blob/main/docs/adr/ADD-2-Cliente-servidor.md)] [ADD-2-Cliente-Servidor.md]
 * [ADD-3] (https://github.com/CarlotaMenendez/PracticaDAS/blob/main/docs/adr/ADD-3-SOA.md) [ADD-3-SOA.md]
 
 <!-- markdownlint-disable-file MD013 -->
