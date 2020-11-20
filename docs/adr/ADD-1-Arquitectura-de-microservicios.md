@@ -1,6 +1,6 @@
 # [Elección arquitectura de microservicios]
 
-* Status: [proposed] 
+* Status: [accepted] 
 * Deciders: [Alberto Jimenez, Manuel Martin, David Mestanza, Javier Mendez] 
 * Date: [20/11/2020]
 
@@ -15,9 +15,9 @@
 
 ## Considered Options
 
-* [ADD-1. Arquitectura de microservicios]
-* [ADD-2. Cliente-Servidor]
-* [ADD-3. SOA]
+* [ADD-1-Arquitectura de microservicios]
+* [ADD-2-Cliente-Servidor]
+* [ADD-3-SOA]
 
 ## Decision Outcome
 
@@ -49,9 +49,9 @@ Chosen option: "[ADD-1. Arquitectura de microservicios]", because [es un método
 * Bad, because [trabaja en base a la integración de servicios. ]
 * Bad, because [un fallo en el SOA afecta a todo el sistema. ]
 
-## Links <!-- optional -->
+## Links
 
-* [Link type] [Link to ADR] <!-- example: Refined by [ADR-0005](0005-example.md) -->
-* … <!-- numbers of links can vary -->
+* [ADD-2] (https://github.com/CarlotaMenendez/PracticaDAS/blob/main/docs/adr/ADD-2-Cliente-servidor.md) [ADD-2-Cliente-Servidor.md]
+* [ADD-3] (https://github.com/CarlotaMenendez/PracticaDAS/blob/main/docs/adr/ADD-3-SOA.md) [ADD-3-SOA.md]
 
 <!-- markdownlint-disable-file MD013 -->
