@@ -24,8 +24,7 @@
 Chosen option: "[ADD-2. Cliente-Servidor]", because [necesitaríamos software y hardware específico que supondría un gasto que no estamos dispuestos a correr. Además al tener tantos servicios simultáneos es fácil que se caiga el servidor.]
 
 ## Links <!-- optional -->
-
-* [Link type] [Link to ADR] <!-- example: Refined by [ADR-0005](0005-example.md) -->
-* … <!-- numbers of links can vary -->
+* [ADD-1](https://github.com/CarlotaMenendez/PracticaDAS/blob/main/docs/adr/ADD-1-Arquitectura-de-microservicios.md) [ADD-1-Arquitectura-de-microservicios.md]
+* [ADD-3](https://github.com/CarlotaMenendez/PracticaDAS/blob/main/docs/adr/ADD-3-SOA.md) [ADD-3-SOA.md]
 
 <!-- markdownlint-disable-file MD013 -->
