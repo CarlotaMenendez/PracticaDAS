@@ -25,7 +25,7 @@ Chosen option: "[ADD-3. SOA]", because [trabaja en base a la integración de ser
 
 ## Links
 
-* [ADD-1] [ADD-1-Arquitectura-de-microservicios.md]
-* [ADD-2] [ADD-2-Cliente-Servidor.md]
+* [ADD-1](https://github.com/CarlotaMenendez/PracticaDAS/blob/main/docs/adr/ADD-1-Arquitectura-de-microservicios.md) [ADD-1-Arquitectura-de-microservicios.md]
+* [ADD-2](https://github.com/CarlotaMenendez/PracticaDAS/blob/main/docs/adr/ADD-2-Cliente-servidor.md) [ADD-2-Cliente-Servidor.md]
 
 <!-- markdownlint-disable-file MD013 -->
