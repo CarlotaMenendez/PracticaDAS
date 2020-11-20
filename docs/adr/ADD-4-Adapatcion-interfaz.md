@@ -1,6 +1,6 @@
 # [Adaptación de la intefaz del producto al cliente con HTML5]
 
-* Status: [Proposed]
+* Status: [accepted]
 * Deciders: [Alberto Jimenez, Manuel Martín, Javier Mendez]
 * Date: [20/11/2020 ]
 
