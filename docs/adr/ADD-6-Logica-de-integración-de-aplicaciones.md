@@ -1,7 +1,7 @@
 # Logica de integración de aplicaciones
 
 * Status: [Accepted] 
-* Deciders: [Alberto Jimenez, Manuel Martin, Javier Mendez] 
+* Deciders: [Alberto Jimenez, Manuel Martin, Javier Mendez, David Mestanza] 
 * Date: [24/11/2020] 
 
 ## Context and Problem Statement
