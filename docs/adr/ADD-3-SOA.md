@@ -15,9 +15,9 @@
 
 ## Considered Options
 
-* [ADD-1-Arquitectura-de-microservicios]
-* [ADD-2-Cliente-Servidor]
-* [ADD-3-SOA]
+* [ADD-1] Arquitectura-de-microservicios
+* [ADD-2] Cliente-Servidor
+* [ADD-3] SOA
 
 ## Decision Outcome
 
