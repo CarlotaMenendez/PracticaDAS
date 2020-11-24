@@ -21,7 +21,7 @@
 
 ## Decision Outcome
 
-Chosen option: "[ADD-3. SOA]", because [trabaja en base a la integración de servicios, y para el problema estamos buscando independencia de los mismo. Además un fallo en el SOA afecta a todo el sistema.]
+Chosen option: "[SOA]", because [trabaja en base a la integración de servicios, y para el problema estamos buscando independencia de los mismo. Además un fallo en el SOA afecta a todo el sistema.]
 
 ## Links
 
