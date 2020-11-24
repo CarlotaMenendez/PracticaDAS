@@ -15,7 +15,7 @@
 
 ## Considered Options
 
-* [ADD-1. Patrón CQRS]
+* [ADD-5] Patrón CQRS
 
 ## Decision Outcome
 
