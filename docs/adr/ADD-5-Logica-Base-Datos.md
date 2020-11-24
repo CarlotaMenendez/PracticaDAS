@@ -19,7 +19,7 @@
 
 ## Decision Outcome
 
-Chosen option: "[ADD-1. Patron CQRS]", because [ El patrón CQRS separa las operaciones de lectura y escritura de un almacen de datos, que usa comandos para actualizar los datos y consultas para leerlos.  ].
+Chosen option: "[Patron CQRS]", because [ El patrón CQRS separa las operaciones de lectura y escritura de un almacen de datos, que usa comandos para actualizar los datos y consultas para leerlos.  ].
 
 ### Positive Consequences 
 
