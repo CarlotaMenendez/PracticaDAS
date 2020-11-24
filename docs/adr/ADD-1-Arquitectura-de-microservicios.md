@@ -21,7 +21,7 @@
 
 ## Decision Outcome
 
-Chosen option: "[ADD-1. Arquitectura de microservicios]", because [es un método de desarrollo de aplicaciones software que funciona como un conjunto de pequeños servicios que se ejecutan de manera independiente y autónoma, proporcionando una funcionalidad de negocio completa y nos facilita la integración de aplicaciones de terceros y la independencia entre ellas.].
+Chosen option: "[Arquitectura de microservicios]", because [es un método de desarrollo de aplicaciones software que funciona como un conjunto de pequeños servicios que se ejecutan de manera independiente y autónoma, proporcionando una funcionalidad de negocio completa y nos facilita la integración de aplicaciones de terceros y la independencia entre ellas.].
 
 ### Positive Consequences
 * [Versátil, los microservicios permiten el uso de diferentes tecnologías y lenguajes. ]
