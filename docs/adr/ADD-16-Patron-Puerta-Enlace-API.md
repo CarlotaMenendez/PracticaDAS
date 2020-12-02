@@ -35,4 +35,8 @@ Chosen option: "[Patrón de puerta de enlace API]", because [Este es un servicio
 * [Usar una puerta de enlace de API de microservicios crea un posible único punto de error adicional]
 * [Si no se escala horizontalmente de manera correcta, la puerta de enlace de API puede dar lugar a un cuello de botella]
 
+## Links
+
+* [ADD-17](https://github.com/CarlotaMenendez/PracticaDAS/edit/main/docs/adr/ADD-17-Patron-BFF.md) [ADD-17-Patron-BFF]
+
 <!-- markdownlint-disable-file MD013 -->
