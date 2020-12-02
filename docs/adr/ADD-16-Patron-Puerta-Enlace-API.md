@@ -28,8 +28,6 @@ Chosen option: "[Patrón de puerta de enlace API]", because [Este es un servicio
 * [Problemas de seguridad, sin una puerta de enlace, todos los microservicios deben estar expuestos al mundo externo.]
 * [Cada microservicio publicado públicamente debe abordar inquietudes como la autorización, SSL, etc. En muchas situaciones, esas preocupaciones podrían manejarse en un solo nivel para que los microservicios internos se simplifiquen.]
 * [Un cliente puede requerir varias llamadas a multiples microservicios, la agregación manejada a un nivel intermedio, podría mejorar el rendimiento y la experiencia del usuario para la aplicación cliente. ]
-* []
-
 
 ### Negative Consequences
 
